@@ -58,7 +58,7 @@ Take a look at `promo.js` in the `data` folder. This is your _"database"_. It co
 You will need to import this data wherever you need to use it. At the top of the file you can require them with
 
 ```js
-const { stock, customers } = require('<PATH_TO_FILE>');
+const { stock, customers } = require("<PATH_TO_FILE>");
 ```
 
 #### Endpoint details
